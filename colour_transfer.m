@@ -2,7 +2,7 @@
 %  Project       : Colour Transfer                                        %
 %  File          : Colour_Transfer.m                                      %
 %  Description   : Colour Transfer between Images                         %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;
